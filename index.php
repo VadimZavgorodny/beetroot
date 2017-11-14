@@ -50,6 +50,6 @@ foreach($array as $key => $value) {
         var_dump($key);
         var_dump($value);
     }
-}
+} 
 
 ?>
